@@ -1,0 +1,6 @@
+# 本地预览产物，不入库
+preview-local.html
+
+# 运行时可能生成的杂项
+*.log
+__pycache__/
