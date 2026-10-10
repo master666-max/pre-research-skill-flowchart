@@ -164,6 +164,10 @@ flowchart TD
 
 ---
 
+## 权威出处
+
+skill 三件套本尊（法学 v1.6.0 + 工作流执行器 v0.6.0 + 闲时版 v0.3.0）的**唯一权威仓**：[pre-research-skill](https://github.com/master666-max/pre-research-skill)——本仓只承载流程图与判定分析。
+
 ## 来源与版本
 
 - 图解对象：pre-research 技能 v1.0.0（2026-10-01，agent_created）
